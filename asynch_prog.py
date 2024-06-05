@@ -10,6 +10,8 @@ async def cut_onion():
     await asyncio.sleep(2)
     print("End cutting..")
 
+# hello
+
 async def prepare_salad():
     print("Start salad..")
     await asyncio.sleep(4)
